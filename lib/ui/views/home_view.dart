@@ -15,7 +15,7 @@ class HomeView extends StatelessWidget {
   Widget build(BuildContext context) {
     User user = Provider.of<User>(context);
     return BaseView<HomeModel>(
-      onModelReeady: (model) => model.gePosts(user.id),
+      onModelReady: (model) => model.gePosts(user.id),
       builder: (BuildContext context, HomeModel model, Widget child) =>
           Scaffold(
         backgroundColor: backgroundColor,
