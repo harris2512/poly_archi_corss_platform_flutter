@@ -1,6 +1,8 @@
 <!-- header section -->
 <p align="center">
-
+  <span>Thank you. <b>samuelematias
+Samuel Matias</b></span>
+  
   <span><b>Flutter Provider Architecture</b></span><br/>
   <span>Mobile Application Developed in <b>Flutter.</b></span><br/>
   <span>Running on both mobile platforms, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
