@@ -1,8 +1,9 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide Router;
+
 import 'package:flutter_provider_architecture/core/models/user.dart';
 import 'package:flutter_provider_architecture/core/services/authentication_service.dart';
 import 'package:flutter_provider_architecture/locator.dart';
-import 'package:flutter_provider_architecture/ui/router.dart';
+import 'package:flutter_provider_architecture/router.dart';
 import 'package:provider/provider.dart';
 
 void main() {
