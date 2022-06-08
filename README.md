@@ -1,22 +1,12 @@
 <!-- header section -->
 <p align="center">
-  <img src="https://i.imgur.com/5ml3X20.png" height="224" /><br/>
+
   <span><b>Flutter Provider Architecture</b></span><br/>
   <span>Mobile Application Developed in <b>Flutter.</b></span><br/>
   <span>Running on both mobile platforms, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
 </p>
 <!-- header section END -->
 
-<br/>
-<!-- show case/gif section -->
-<p align="center">
-    <img alt="Flutter App 1" height="620" src="https://media.giphy.com/media/ZFKTGLsDg69Gx6zhOd/giphy.gif" />
-</p>
-<!-- show case/gif section END -->
-
-<br/>
-
-<!-- about app and course section -->
 
 ## About this app
 
